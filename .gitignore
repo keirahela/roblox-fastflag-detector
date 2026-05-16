@@ -1,0 +1,36 @@
+# Build artifacts
+build/
+build-debug/
+out/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.user
+*.swp
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Local cache
+.cache/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Legacy / scratch
+*.legacy
+*.bak
+*.orig
